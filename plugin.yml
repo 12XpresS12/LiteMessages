@@ -1,0 +1,14 @@
+name: LiteMessages
+main: sk.xpress.lite.messages
+
+version: 1.0
+description: Easy Plugin with 100% configuration
+author: XpresS
+website: http://originalplay.cz
+
+commands:
+ lm:
+   description: Reload a configuration from file !
+permissions:
+  originalplay.*:
+    description: Give acces for reload a configuration !
