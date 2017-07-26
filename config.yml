@@ -1,0 +1,12 @@
+Player-Join:
+  Active-Text: true
+  Text: '&7» &7Player &f&l%playername% &7has joined on server'
+  Default-Text: false
+Player-Quit:
+  Active-Text: true
+  Text: '&7» &7Player &f&l%playername% &7has left the game'
+  Default-Text: false
+Console:
+  ToConsole: false
+  DisableCommands: true
+  UnknownCommand: '&fUnknown command. type ''''/help'''' for help.'
