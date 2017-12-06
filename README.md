@@ -8,14 +8,9 @@ So I published this for http://spigotmc.org comunitty
 =======================================================================
 
 
-Our portal OriginalPlay for CZ/SK/EN 
-    http://originalplay.cz
-    There u can find somenew information about portal or server.
-    You are welcome on our servers.
-
-Games for which we are oriented:
-    Grand Theft Auto: San Andreas
-    Minecraft - Survival and Most Minigames
-    Next we want some CS 1.6 Servers with our custom mods
+I now working on unique " MiniGame ", I doesnt see anywhere.
+Its based on Prison, other thinks you will know when I publish
+more information when you want visit us, we have Facebook FanPage:
+https://www.facebook.com/prisonlifemc/ You are welcomed there :)
 
 =======================================================================
